@@ -35,4 +35,15 @@ Everything here is graded **[forensic], never [cryptographic]**.
   wallet moved N BTC" headline to `GENESIS / PATOSHI / AMBIGUOUS / NOT-PATOSHI`. Stdlib-only
   except plotting. MIT.
 
+## The other half
+
+**[original-bitcoin-laboratory](https://github.com/original-bitcoin-laboratory)** ·
+[bitcoin-lab.org](https://bitcoin-lab.org) — an evidence-first, *executable* reconstruction of the
+earliest Bitcoin: the November 2008 pre-release and the January 2009 v0.1.0 client, built from
+hash-verified archives, with nothing disabled and no chain privileged.
+
+Two halves of one question, answered with different evidence. That laboratory gets to the bottom of
+**Bitcoin** by making the earliest code run and re-derive. This organization gets to the bottom of
+**Satoshi** by measuring what the chain itself records. Neither leans on the other's conclusions.
+
 <sub>Sources: S. D. Lerner, "The Well Deserved Fortune of Satoshi Nakamoto" (bitslog, 2013) for the ExtraNonce/nonce methodology; the chain itself for the genesis and block-170 facts. Reproducible-measurement discipline throughout.</sub>
