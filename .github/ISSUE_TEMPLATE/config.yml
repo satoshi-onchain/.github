@@ -1,0 +1,18 @@
+blank_issues_enabled: true
+contact_links:
+  - name: "\"You can't prove these blocks are Satoshi's\""
+    url: https://github.com/satoshi-onchain/.github/blob/main/SECURITY.md
+    about: >-
+      Correct, and already stated. The Patoshi cluster is a fingerprint, not a signature, and
+      everything here is graded [forensic], never [cryptographic]. Please read the policy first.
+  - name: Identity claims
+    url: https://github.com/satoshi-onchain/.github/blob/main/CODE_OF_CONDUCT.md
+    about: >-
+      Asserting that someone is or is not Satoshi is not evidence in either direction, and is out
+      of scope for this tracker.
+  - name: The site
+    url: https://satoshioncha.in
+    about: The verdict tool, the tiers, and the published figures.
+  - name: Security contact
+    url: https://satoshioncha.in/.well-known/security.txt
+    about: For the narrow cases where a report should not be public.
