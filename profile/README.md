@@ -1,6 +1,6 @@
 # satoshi-onchain
 
-**Reproducible on-chain forensics of the original Satoshi's footprint — every figure re-derivable from public data, and never graded above what the evidence supports.**
+**Reproducible on-chain measurement of the original Satoshi's footprint — every figure re-derivable from public data, and never graded above what the evidence supports.**
 
 This organization builds auditable tools for one question: *what is the verifiable
 on-chain footprint of the original Satoshi on the original Bitcoin chain* — nothing that
@@ -13,7 +13,7 @@ re-derivable from the chain itself: a synced Bitcoin Core node, or the public
 | Tier | What | Certainty |
 |---|---|---|
 | **A · Definitional** | The genesis block (height 0): its coinbase message, key, and permanently-unspendable 50 BTC, hardcoded in the consensus rules. | **Certain** — it *is* the chain's first constant. |
-| **B · Forensic** | The **Patoshi** cluster — one dominant early miner fingerprinted by block-header structure (Lerner, 2013). ≈22k of the first ≈50k blocks, ≈1.1M BTC, still unspent. | **Statistical, not cryptographic** — a fingerprint, not a signature. |
+| **B · Statistical** | The **Patoshi** cluster — one dominant early miner fingerprinted by block-header structure (Lerner, 2013). ≈22k of the first ≈50k blocks, ≈1.1M BTC, still unspent. | **Statistical, not cryptographic** — a fingerprint, not a signature. |
 | **C · Attested** | Block 170 — Satoshi → Hal Finney, 10 BTC, spending block 9's Patoshi coinbase. | **On-chain certain** that the spend happened; "it was Satoshi" rests on B + Finney's own account. |
 
 ## The line we do not cross
@@ -24,7 +24,7 @@ upgrade Tier B from *attributable* to *proven*. Every public "I am Satoshi" clai
 The ≈1.1M BTC staying silent for 15+ years is itself the strongest ongoing statement: the
 keys don't speak, and no impostor can make them.
 
-Everything here is graded **[forensic], never [cryptographic]**.
+Everything here is graded **[statistical], never [cryptographic]**.
 
 ## Repositories
 
