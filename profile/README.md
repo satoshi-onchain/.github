@@ -20,7 +20,7 @@ re-derivable from the chain itself: a synced Bitcoin Core node, or the public
 
 No genesis-era or Patoshi key has *ever* produced a verifying signature — only that would
 upgrade Tier B from *attributable* to *proven*. Every public "I am Satoshi" claim
-(including the BSV-side ones rejected in *COPA v Wright*, 2024) fails exactly this test.
+(including the one rejected in *COPA v Wright* [2024] EWHC 1198 (Ch)) fails exactly this test.
 The ≈1.1M BTC staying silent for 15+ years is itself the strongest ongoing statement: the
 keys don't speak, and no impostor can make them.
 
@@ -42,8 +42,8 @@ Everything here is graded **[forensic], never [cryptographic]**.
 earliest Bitcoin: the November 2008 pre-release and the January 2009 v0.1.0 client, built from
 hash-verified archives, with nothing disabled and no chain privileged.
 
-Two halves of one question, answered with different evidence. That laboratory gets to the bottom of
-**Bitcoin** by making the earliest code run and re-derive. This organization gets to the bottom of
-**Satoshi** by measuring what the chain itself records. Neither leans on the other's conclusions.
+Two halves of one question, answered with different evidence. That laboratory studies
+**Bitcoin** by making the earliest code run and re-derive. This organization measures what the
+chain itself records about **Satoshi**. Neither leans on the other's conclusions.
 
 <sub>Sources: S. D. Lerner, "The Well Deserved Fortune of Satoshi Nakamoto" (bitslog, 2013) for the ExtraNonce/nonce methodology; the chain itself for the genesis and block-170 facts. Reproducible-measurement discipline throughout.</sub>
