@@ -6,7 +6,7 @@ This policy is the default for every repository in the
 
 ## What this software is
 
-Reproducible on-chain forensics: a verifier, a Patoshi classifier, and a coin-by-coin verdict tool,
+Reproducible on-chain measurement: a verifier, a Patoshi classifier, and a coin-by-coin verdict tool,
 plus a static site. There is no server-side code, no database, no accounts, no forms, and no user
 data of any kind. The tooling is stdlib-only except for plotting, and it reads public data — a
 synced Bitcoin Core node, or `bigquery-public-data.crypto_bitcoin`.
@@ -24,8 +24,8 @@ open, and the correction will say what was wrong and what it changes.
 
 Two more that carry the same weight:
 
-- **A grade is too strong.** Everything here is graded **[forensic], never [cryptographic]**, and
-  the three tiers — definitional, forensic, attested — are meant never to blur. A claim that reads
+- **A grade is too strong.** Everything here is graded **[statistical], never [cryptographic]**, and
+  the three tiers — definitional, statistical, attested — are meant never to blur. A claim that reads
   as more certain than its tier allows is a defect of the same kind as a wrong number.
 - **A signature, digest, or timestamp does not check out.** Releases are signed and anchored, and
   the instructions to verify them are published alongside.

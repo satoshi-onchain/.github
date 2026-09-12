@@ -36,7 +36,7 @@ figure does not re-derive, or that a grade is too strong, is the most useful con
 make.
 
 Two things are out of place here. The first is identity claims: this project grades everything
-**[forensic], never [cryptographic]**, and no genesis-era or Patoshi key has ever produced a
+**[statistical], never [cryptographic]**, and no genesis-era or Patoshi key has ever produced a
 verifying signature. Asserting that someone is or is not Satoshi, in either direction, is not
 evidence and will not be treated as such. The second is speculation about the identity of living
 people. Neither belongs in the issue tracker.

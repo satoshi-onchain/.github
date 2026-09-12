@@ -22,7 +22,7 @@ If this changes a published figure, show the command and its output. If it does 
 
 <!--
 Does this change how strongly anything is claimed? If a sentence moves between tiers
-(A definitional / B forensic / C attested), say which way and what evidence supports it.
+(A definitional / B statistical / C attested), say which way and what evidence supports it.
 Nothing becomes [cryptographic] without a verifying signature, and none exists.
 -->
 

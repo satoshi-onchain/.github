@@ -20,7 +20,7 @@ never blurred:
 | Tier | What | Certainty |
 |---|---|---|
 | **A · Definitional** | The genesis block: its coinbase message, key, and unspendable 50 BTC, hardcoded in consensus. | Certain |
-| **B · Forensic** | The Patoshi cluster, fingerprinted by block-header structure. | Statistical, not cryptographic |
+| **B · Statistical** | The Patoshi cluster, fingerprinted by block-header structure. | Statistical, not cryptographic |
 | **C · Attested** | Block 170, Satoshi → Hal Finney. | On-chain certain that the spend happened; the attribution rests on B plus Finney's account |
 
 A contribution that moves a claim up a tier needs the evidence for that tier. Nothing here is

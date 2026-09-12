@@ -7,8 +7,8 @@ assignees: ''
 ---
 
 <!--
-This project grades everything [forensic], never [cryptographic], and keeps three tiers separate:
-definitional, forensic, attested. A sentence that carries more certainty than its tier allows is a
+This project grades everything [statistical], never [cryptographic], and keeps three tiers separate:
+definitional, statistical, attested. A sentence that carries more certainty than its tier allows is a
 defect of the same kind as a wrong number.
 -->
 
@@ -18,7 +18,7 @@ defect of the same kind as a wrong number.
 
 ## The tier it is asserted at
 
-<!-- A · definitional / B · forensic / C · attested — as the text reads. -->
+<!-- A · definitional / B · statistical / C · attested — as the text reads. -->
 
 ## The tier the evidence supports
 

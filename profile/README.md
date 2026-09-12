@@ -18,7 +18,7 @@ re-derivable from the chain itself: a synced Bitcoin Core node, or the public
 | Tier | What | Certainty |
 |---|---|---|
 | **A · Definitional** | The genesis block (height 0): its coinbase message, key, and permanently-unspendable 50 BTC, hardcoded in the consensus rules. | **Certain** — it *is* the chain's first constant. |
-| **B · Statistical** | The **Patoshi** cluster — one dominant early miner fingerprinted by block-header structure (Lerner, 2013). ≈22k of the first ≈50k blocks, ≈1.1M BTC, still unspent. | **Statistical, not cryptographic** — a fingerprint, not a signature. |
+| **B · Statistical** | The **Patoshi** cluster — one dominant early miner fingerprinted by block-header structure (Lerner, 2013). ≈22.5k of the first ≈54k blocks, ≈1.13M BTC (Lerner 2013: ≈22k, ≈1.1M), still unspent. | **Statistical, not cryptographic** — a fingerprint, not a signature. |
 | **C · Attested** | Block 170 — Satoshi → Hal Finney, 10 BTC, spending block 9's Patoshi coinbase. | **On-chain certain** that the spend happened; "it was Satoshi" rests on B + Finney's own account. |
 
 ## The line we do not cross
@@ -27,7 +27,7 @@ No genesis-era or Patoshi key has *ever* produced a verifying signature — only
 upgrade Tier B from *attributable* to *proven*. Every public "I am Satoshi" claim
 (including the one rejected in *COPA v Wright* [2024] EWHC 1198 (Ch)) fails exactly this test.
 The ≈1.1M BTC staying silent for 15+ years is itself the strongest ongoing statement: the
-keys don't speak, and no impostor can make them.
+keys have not spoken, and no one else can make them speak.
 
 Everything here is graded **[statistical], never [cryptographic]**.
 
