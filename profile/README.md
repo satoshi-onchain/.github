@@ -1,5 +1,10 @@
 # satoshi-onchain
 
+> **Scope.** Experimental laboratory research, in progress and expected to change. It reports what
+> published, re-runnable methods find in public material — statistical and machine-verifiable
+> findings, graded by their evidence — and draws no conclusion beyond them. Not money, not advice,
+> no warranty. Details in [RIGHTS.md](https://github.com/satoshi-onchain/satoshi-onchain/blob/main/RIGHTS.md).
+
 **Reproducible on-chain measurement of the original Satoshi's footprint — every figure re-derivable from public data, and never graded above what the evidence supports.**
 
 This organization builds auditable tools for one question: *what is the verifiable
