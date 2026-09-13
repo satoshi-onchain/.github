@@ -15,7 +15,7 @@ anyone can re-derive.
 published instructions does not belong here, however plausible it is.
 
 **2. Nothing is graded above what the evidence supports.** The three tiers are kept separate and
-never blurred:
+kept apart:
 
 | Tier | What | Certainty |
 |---|---|---|

@@ -18,7 +18,7 @@ re-derivable from the chain itself: a synced Bitcoin Core node, or the public
 | Tier | What | Certainty |
 |---|---|---|
 | **A · Definitional** | The genesis block (height 0): its coinbase message, key, and unspendable 50 BTC, hardcoded in the consensus rules. | **Certain** — it *is* the chain's first constant. |
-| **B · Statistical** | The **Patoshi** cluster — one dominant early miner fingerprinted by block-header structure (Lerner, 2013). ≈22.5k of the first ≈54k blocks, ≈1.13M BTC attributed (Lerner 2013: ≈22k, ≈1.1M), about 94% of it never spent. | **Statistical, not cryptographic** — a fingerprint, not a signature. |
+| **B · Statistical** | The **Patoshi** cluster — one dominant early miner fingerprinted by block-header structure (Lerner, 2013). ≈22.5k of the first ≈54k blocks, ≈1.13M BTC attributed (Lerner 2013: ≈22k, ≈1.1M), about 94% of it not spent. | **Statistical, not cryptographic** — a fingerprint, not a signature. |
 | **C · Attested** | Block 170 — Satoshi → Hal Finney, 10 BTC, spending block 9's Patoshi coinbase. | **On-chain certain** that the spend happened; "it was Satoshi" rests on B + Finney's own account. |
 
 ## The line we do not cross

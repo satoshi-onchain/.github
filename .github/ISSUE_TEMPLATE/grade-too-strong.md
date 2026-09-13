@@ -7,7 +7,7 @@ assignees: ''
 ---
 
 <!--
-This project grades everything [statistical], never [cryptographic], and keeps three tiers separate:
+This project grades everything [statistical], not [cryptographic], and keeps three tiers separate:
 definitional, statistical, attested. A sentence that carries more certainty than its tier allows is a
 defect of the same kind as a wrong number.
 -->
