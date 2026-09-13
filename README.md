@@ -20,7 +20,7 @@ way to specialize: override the file, do not weaken the default.
 
 **[`satoshi-onchain`](https://github.com/satoshi-onchain/satoshi-onchain)** — a reproducible
 Satoshi/Patoshi on-chain tracker. Every figure re-derives from public chain data with a published
-command. Everything is graded **[statistical]**, never **[cryptographic]**; no verifying signature
+command. Everything is graded **[statistical]**, not **[cryptographic]**; no verifying signature
 exists, and none is claimed.
 
 Site: <https://satoshioncha.in>

@@ -19,13 +19,13 @@ The realistic surface is therefore **the integrity of what is published**, not a
 
 Every number here is supposed to be reproducible from the chain itself. If a count, a threshold, a
 block classification, or a verdict does not come out the way the repository says it should — from
-public data, following the published instructions — that is a defect. It will be corrected in the
-open, and the correction will say what was wrong and what it changes.
+public data, following the published instructions — that is a defect. It is corrected in the
+open, and the correction says what was wrong and what it changes.
 
 Two more that carry the same weight:
 
-- **A grade is too strong.** Everything here is graded **[statistical], never [cryptographic]**, and
-  the three tiers — definitional, statistical, attested — are meant never to blur. A claim that reads
+- **A grade is too strong.** Everything here is graded **[statistical], not [cryptographic]**, and
+  the three tiers — definitional, statistical, attested — do not blur. A claim that reads
   as more certain than its tier allows is a defect of the same kind as a wrong number.
 - **A signature, digest, or timestamp does not check out.** Releases are signed and anchored, and
   the instructions to verify them are published alongside.
@@ -38,7 +38,7 @@ and not defects.** The organization says so at the top of its profile and in eve
 emits. What *would* be a defect is a figure that does not re-derive, or a sentence that grades that
 fingerprint above what it can carry.
 
-Likewise, no genesis-era or Patoshi key has ever produced a verifying signature. That is a stated
+Likewise, no genesis-era or Patoshi key has produced a verifying signature. That is a stated
 finding, not an omission.
 
 ## How to report
@@ -63,7 +63,7 @@ The maintainer's OpenPGP release-signing key is
 ## What to expect
 
 One maintainer, no service-level agreement, and no bounty. Reports are acknowledged when read and
-fixed in the open. A report that changes a published figure will be recorded as having done so,
+fixed in the open. A report that changes a published figure is recorded as having done so,
 with attribution if you want it and without if you do not.
 
 ## Supported versions

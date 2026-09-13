@@ -4,7 +4,7 @@ contact_links:
     url: https://github.com/satoshi-onchain/.github/blob/main/SECURITY.md
     about: >-
       Correct, and already stated. The Patoshi cluster is a fingerprint, not a signature, and
-      everything here is graded [forensic], never [cryptographic]. Please read the policy first.
+      everything here is graded [statistical], not [cryptographic]. Please read the policy first.
   - name: Identity claims
     url: https://github.com/satoshi-onchain/.github/blob/main/CODE_OF_CONDUCT.md
     about: >-

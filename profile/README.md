@@ -5,7 +5,7 @@
 > findings, graded by their evidence — and draws no conclusion beyond them. Not money, not advice,
 > no warranty. Details in [RIGHTS.md](https://github.com/satoshi-onchain/satoshi-onchain/blob/main/RIGHTS.md).
 
-**Reproducible on-chain measurement of the original Satoshi's footprint — every figure re-derivable from public data, and never graded above what the evidence supports.**
+**Reproducible on-chain measurement of the original Satoshi's footprint — every figure re-derivable from public data, and not graded above what the evidence supports.**
 
 This organization builds auditable tools for one question: *what is the verifiable
 on-chain footprint of the original Satoshi on the original Bitcoin chain* — nothing that
@@ -13,23 +13,23 @@ rests on off-chain claims or on the word "Satoshi" in someone's mouth. Every num
 re-derivable from the chain itself: a synced Bitcoin Core node, or the public
 `bigquery-public-data.crypto_bitcoin` dataset.
 
-## The epistemics, stated up front — three tiers, never blurred
+## The epistemics, stated up front — three tiers, kept apart
 
 | Tier | What | Certainty |
 |---|---|---|
-| **A · Definitional** | The genesis block (height 0): its coinbase message, key, and permanently-unspendable 50 BTC, hardcoded in the consensus rules. | **Certain** — it *is* the chain's first constant. |
+| **A · Definitional** | The genesis block (height 0): its coinbase message, key, and unspendable 50 BTC, hardcoded in the consensus rules. | **Certain** — it *is* the chain's first constant. |
 | **B · Statistical** | The **Patoshi** cluster — one dominant early miner fingerprinted by block-header structure (Lerner, 2013). ≈22.5k of the first ≈54k blocks, ≈1.13M BTC attributed (Lerner 2013: ≈22k, ≈1.1M), about 94% of it never spent. | **Statistical, not cryptographic** — a fingerprint, not a signature. |
 | **C · Attested** | Block 170 — Satoshi → Hal Finney, 10 BTC, spending block 9's Patoshi coinbase. | **On-chain certain** that the spend happened; "it was Satoshi" rests on B + Finney's own account. |
 
 ## The line we do not cross
 
-No genesis-era or Patoshi key has *ever* produced a verifying signature — only that would
+No genesis-era or Patoshi key has produced a verifying signature — only that would
 upgrade Tier B from *attributable* to *proven*. Every public "I am Satoshi" claim
 (including the one rejected in *COPA v Wright* [2024] EWHC 1198 (Ch)) fails exactly this test.
 Most of that ≈1.13M BTC has not moved since it was mined. The keys have signed nothing since, and
 nothing here can make them.
 
-Everything here is graded **[statistical], never [cryptographic]**.
+Everything here is graded **[statistical], not [cryptographic]**.
 
 ## Repositories
 
