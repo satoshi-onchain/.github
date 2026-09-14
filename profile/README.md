@@ -25,7 +25,7 @@ re-derivable from the chain itself: a synced Bitcoin Core node, or the public
 
 No genesis-era or Patoshi key has produced a verifying signature — only that would
 upgrade Tier B from *attributable* to *proven*. Every public "I am Satoshi" claim
-(including the one rejected in *COPA v Wright* [2024] EWHC 1198 (Ch)) fails exactly this test.
+(including the one rejected in *COPA v Wright* [2024] EWHC 1198 (Ch), ¶7.2) fails exactly this test.
 Most of that ≈1.13M BTC has not moved since it was mined. The keys have signed nothing since, and
 nothing here can make them.
 

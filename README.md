@@ -23,4 +23,9 @@ Satoshi/Patoshi on-chain tracker. Every figure re-derives from public chain data
 command. Everything is graded **[statistical]**, not **[cryptographic]**; no verifying signature
 exists, and none is claimed.
 
+> **Scope.** Experimental research, in progress and expected to change. Every figure re-derives from
+> public chain data with a published command; everything is graded [statistical], not [cryptographic].
+> Not money, not advice, no warranty. Details in
+> [RIGHTS.md](https://github.com/satoshi-onchain/satoshi-onchain/blob/main/RIGHTS.md).
+
 Site: <https://satoshioncha.in>
